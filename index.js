@@ -1,4 +1,5 @@
-
+//NOTE for 1 - 4, you need the = sign involved. For 5-6 you can't say n++ or n--
+  
   
   function add(a, b) {
     return a += b;
