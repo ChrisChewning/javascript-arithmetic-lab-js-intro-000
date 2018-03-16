@@ -18,14 +18,12 @@ it('divide(a, b) divides a by b and returns the result', function() {
   }
   
   function subtract(a, b) {
-    return a- b; 
+    return a - b; 
   }
   
   function multiply(a, b) {
     return a * b;
   }
   
-  function divide(a, b) {
-    return a / b;
-  }
+  
     
