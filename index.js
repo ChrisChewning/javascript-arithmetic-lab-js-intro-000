@@ -30,5 +30,5 @@
   }
   
 function makeInt(x, base) {
-  return parseInt(base);
+  return parseInt(x, base);
 }
