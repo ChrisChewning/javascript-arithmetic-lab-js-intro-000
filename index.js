@@ -21,5 +21,5 @@
   }
   
   function dec(n) {
-    return -nn;
+    return -n;
   }
