@@ -17,17 +17,15 @@ it('divide(a, b) divides a by b and returns the result', function() {
     return a + b;
   }
   
-  function subtract(a,b) {
+  function subtract(a, b) {
     return a- b; 
   }
   
-  function multiply(a,b) {
+  function multiply(a, b) {
     return a * b;
   }
   
-  function divide(a,b) {
+  function divide(a, b) {
     return a / b;
   }
-    
-    
     
