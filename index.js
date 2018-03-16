@@ -29,4 +29,6 @@
     return parseInt(n);
   }
   
-function makeInt(n)
+function makeInt(x, 'base') {
+  
+}
