@@ -30,6 +30,5 @@
   }
   
 function makeInt(x, base) {
-  return parseInt ('2.2222', 10)
+  return parseInt('2.2222', 10);
 }
-
