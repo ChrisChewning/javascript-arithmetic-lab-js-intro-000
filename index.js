@@ -29,6 +29,6 @@
     return parseInt(n);
   }
   
-  function makeInt(n, o) {
-    return parseInt(2, '10');
+  function makeInt(n) {
+    return parseInt('10');
   }
